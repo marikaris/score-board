@@ -32,10 +32,6 @@
                                   value="music">
                       Muziek
                     </b-form-radio>
-                    <b-form-radio v-model="selected" :aria-describedby="ariaDescribedby" name="some-radios"
-                                  value="technical">
-                      Judo worpen en technieken
-                    </b-form-radio>
                     <b-form-radio v-model="selected" :aria-describedby="ariaDescribedby" name="some-radios" value="tv">
                       Films en TV
                     </b-form-radio>
